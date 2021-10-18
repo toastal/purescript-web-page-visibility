@@ -1,4 +1,6 @@
 purescript-web-page-visibility
-=============================
+==============================
 
-Source is https://git.sr.ht/~toastal/purescript-web-page-visibility[here], but I know some people use GitHub and as search engine.
+The is on https://git.sr.ht/~toastal/purescript-web-page-visibility[Sourcehut]. I know some people use GitHub and as search engine, so this `README` is for SEO.
+
+I have no plans to ever migrate or mirror my projects to Microsoft’s Github.
