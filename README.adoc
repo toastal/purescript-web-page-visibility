@@ -1,0 +1,8 @@
+purescript-web-page-visibility
+==============================
+
+The source for this project is at https://git.sr.ht/~toastal/purescript-web-page-visibility[SourceHut], an open-source code forge.
+I know some people use Microsoft GitHub and as search engine because Google’s results are bad and they aren’t using alternative engines, so this README exists for SEO.
+
+I have no plans to ever migrate or mirror my projects to Microsoft-owned, proprietary, closed-source GitHub forge.
+I also have faith the the PureScript registry will soon support https://github.com/purescript/registry/pull/204[alternative Git forges].
