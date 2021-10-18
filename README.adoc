@@ -1,0 +1,4 @@
+purescript-web-page-visibility
+=============================
+
+Source is https://git.sr.ht/~toastal/purescript-web-page-visibility[here], but I know some people use GitHub and as search engine.

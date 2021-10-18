@@ -1,1 +1,0 @@
-# purescript-web-page-visibility
